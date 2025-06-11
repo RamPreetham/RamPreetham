@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="left">My Name is Preetham Tammana...... I am a Full Stack developer.</h4>
+<h4 align="left">Hey I am Preetham Tammana, a Software Engineer</h4>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🚀 3+ Years of SDLC Experience: Proficient in Agile and Scrum methodologies, skilled in gathering requirements, analysis, and solution implementation.<br><br>💻 Web Development Pro: Expert in HTML5, CSS, Bootstrap, JavaScript, jQuery, AJAX, managing end-to-end pipelines for web applications.<br><br>🌟 JavaScript Maestro: Demonstrated expertise in JavaScript MVC design patterns (AngularJS, ExpressJS, NodeJS) for dynamic web apps.<br><br>🔧 Java Guru: Applied multithreading, Serialization, Collections, Generics, and Core Java concepts for efficient, high-performance applications.</p>
+<p align="left">Software Engineer with 4+ years of experience designing scalable, event-driven systems using Java, Python, Spring Boot, and Kafka. Proficient across the entire SDLC—from architecture and API development to testing, CI/CD, and cloud deployment (AWS & GCP). Adept at working independently on complex problems and delivering performant backend and frontend solutions. Hands-on expertise with monitoring tools like ELK, observability best practices, and database design (Postgres, MongoDB). Committed to delivering reliable, high-performance applications in Agile, cross-functional teams.</p>
 
 ###
 
